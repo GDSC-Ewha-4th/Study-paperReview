@@ -6,7 +6,7 @@
 |[:book:](https://github.com/GDSC-Ewha-4th/Study-paperReview/files/9662201/NIPS-2012-imagenet-classification-with-deep-convolutional-neural-networks-Paper.pdf)|송여진||
 ||김지수||
 ||유승연||
-||차소연||
+|[:survey:](http://www.cs.toronto.edu/~hinton/absps/NatureDeepReview.pdf)|차소연|:white_check_mark:|
 ||신유정||
 ||하수민||
 ||최지원||
